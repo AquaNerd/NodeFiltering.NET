@@ -1,0 +1,14 @@
+C:\repos\LearningDemos\NodeFiltering.NET\NodeFiltering.NET\NodeFiltering.NET\bin\Debug\net8.0\NodeFiltering.NET.exe
+C:\repos\LearningDemos\NodeFiltering.NET\NodeFiltering.NET\NodeFiltering.NET\bin\Debug\net8.0\NodeFiltering.NET.deps.json
+C:\repos\LearningDemos\NodeFiltering.NET\NodeFiltering.NET\NodeFiltering.NET\bin\Debug\net8.0\NodeFiltering.NET.runtimeconfig.json
+C:\repos\LearningDemos\NodeFiltering.NET\NodeFiltering.NET\NodeFiltering.NET\bin\Debug\net8.0\NodeFiltering.NET.dll
+C:\repos\LearningDemos\NodeFiltering.NET\NodeFiltering.NET\NodeFiltering.NET\bin\Debug\net8.0\NodeFiltering.NET.pdb
+C:\repos\LearningDemos\NodeFiltering.NET\NodeFiltering.NET\NodeFiltering.NET\obj\Debug\net8.0\NodeFiltering.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\LearningDemos\NodeFiltering.NET\NodeFiltering.NET\NodeFiltering.NET\obj\Debug\net8.0\NodeFiltering.NET.AssemblyInfoInputs.cache
+C:\repos\LearningDemos\NodeFiltering.NET\NodeFiltering.NET\NodeFiltering.NET\obj\Debug\net8.0\NodeFiltering.NET.AssemblyInfo.cs
+C:\repos\LearningDemos\NodeFiltering.NET\NodeFiltering.NET\NodeFiltering.NET\obj\Debug\net8.0\NodeFiltering.NET.csproj.CoreCompileInputs.cache
+C:\repos\LearningDemos\NodeFiltering.NET\NodeFiltering.NET\NodeFiltering.NET\obj\Debug\net8.0\NodeFiltering.NET.dll
+C:\repos\LearningDemos\NodeFiltering.NET\NodeFiltering.NET\NodeFiltering.NET\obj\Debug\net8.0\refint\NodeFiltering.NET.dll
+C:\repos\LearningDemos\NodeFiltering.NET\NodeFiltering.NET\NodeFiltering.NET\obj\Debug\net8.0\NodeFiltering.NET.pdb
+C:\repos\LearningDemos\NodeFiltering.NET\NodeFiltering.NET\NodeFiltering.NET\obj\Debug\net8.0\NodeFiltering.NET.genruntimeconfig.cache
+C:\repos\LearningDemos\NodeFiltering.NET\NodeFiltering.NET\NodeFiltering.NET\obj\Debug\net8.0\ref\NodeFiltering.NET.dll
